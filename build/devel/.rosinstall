@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/ntfs/AUV/turtle/catkin_ws/src/nums/build/devel/setup.sh

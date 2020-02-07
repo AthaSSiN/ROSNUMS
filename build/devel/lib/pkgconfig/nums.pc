@@ -1,0 +1,8 @@
+prefix=/mnt/ntfs/AUV/turtle/catkin_ws/src/nums/build/devel
+
+Name: nums
+Description: Description of nums
+Version: 0.0.0
+Cflags: 
+Libs: -L/mnt/ntfs/AUV/turtle/catkin_ws/src/nums/build/devel/lib 
+Requires: 
